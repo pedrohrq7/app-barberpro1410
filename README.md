@@ -396,6 +396,6 @@ Início do App
 
 ## 📄 Licença
 
-Este projeto foi desenvolvido exclusivamente para fins acadêmicos como parte da Atividade Prática Supervisionada (APS).
+Este projeto foi desenvolvido exclusivamente para fins acadêmicos.
 
 ---
