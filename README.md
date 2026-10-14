@@ -241,7 +241,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/THIAG0-X/app-barbearia.git
+git clone https://github.com/pedrohrq7/app-barberpro1410
 cd app-barbearia
 ```
 
