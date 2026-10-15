@@ -384,7 +384,7 @@ Início do App
 ## 👨‍💻 Equipe
 
 | Nome |
-|---|---|---|
+
 | Pedro Henrique Pereira Carvalho | 
 | Theo Rodrigues Craveiro Lima |
 
